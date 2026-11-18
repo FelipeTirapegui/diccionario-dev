@@ -1,2 +1,2 @@
 # diccionario-dev
-Diccionario de terminos de Git, GitHub y entornos dedesarrollo (dev, test, staging, prod)
+Diccionario de terminos de Git, GitHub y entornos de desarrollo (dev, test, staging, prod)
